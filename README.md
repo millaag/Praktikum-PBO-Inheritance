@@ -14,13 +14,13 @@ Menggunakan polymorphism dan casting dengan instanceof.
 Mengenal abstract class dan penggunaannya.
 
 **Struktur Program**
-
+```
 Praktikum-PBO-Inheritance/
 │
 ├── Latihan1Kendaraan.java
 ├── Latihan2Bank.java
 └── Latihan3Shape.java
-
+```
 **Penjelasan Latihan**
 Latihan 1 – Kendaraan
 
