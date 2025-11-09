@@ -1,4 +1,5 @@
 **Praktikum PBO - Inheritance**
+
 Tugas Pertemuan 7 - Pemrograman Berorientasi Objek (PBO)
 
 Topik utama: Inheritance (Pewarisan) — memungkinkan suatu class mewarisi atribut dan method dari class lain agar kode lebih efisien, terstruktur, dan mendukung polymorphism.
