@@ -24,7 +24,7 @@ Praktikum-PBO-Inheritance/
 ```
 **Penjelasan Latihan**
 
-Latihan 1 – Kendaraan
+**1. Latihan 1 – Kendaraan**
 
 Konsep: Pewarisan dan method overriding.
 
@@ -49,7 +49,7 @@ Saat v.start() dipanggil, Java memilih method sesuai objek aktual, bukan tipe re
 
 Ini disebut runtime polymorphism.
 
-Latihan 2 – Bank (Inheritance + Casting)
+**2. Latihan 2 – Bank (Inheritance + Casting)**
 
 Konsep: Pewarisan, instanceof, dan casting.
 
@@ -76,7 +76,7 @@ Program memeriksa tipe dengan instanceof sebelum casting agar aman.
 
 Menunjukkan bahwa array Account[] bisa berisi berbagai subclass.
 
-Latihan 3 – Shape dengan Abstrak
+**3. Latihan 3 – Shape dengan Abstrak**
 
 Konsep: Abstract class dan polymorphism.
 
@@ -97,7 +97,7 @@ Area of Circle = 30.566370614359172
 Total area = 48.56637061435917
 
 
-Penjelasan:
+**Penjelasan:**
 
 Abstract class tidak bisa diinstansiasi langsung.
 
@@ -115,7 +115,7 @@ javac Latihan2Bank.java && java Latihan2Bank
 
 javac Latihan3Shape.java && java Latihan3Shape
 
-Identitas
+**Identitas**
 
 Nama: Milla Agustin
 
