@@ -105,7 +105,7 @@ Setiap subclass wajib mengimplementasikan method area().
 
 Program menampilkan hasil polimorfik dari beberapa bentuk geometris.
 
-Cara Menjalankan Program
+**Cara Menjalankan Program**
 
 Kompilasi dan jalankan tiap file Java dengan perintah berikut di terminal:
 
