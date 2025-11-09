@@ -33,13 +33,11 @@ Vehicle sebagai superclass dengan method start().
 Car dan Motorcycle mewarisi Vehicle dan meng-override method start().
 
 Kode Output:
-
+```
 Toyota car starts with a key
-
 Honda motorcycle starts with a button
-
 Suzuki car starts with a key
-
+```
 
 Penjelasan:
 
@@ -60,13 +58,11 @@ SavingsAccount menambah fitur bunga (method addInterest()).
 CheckingAccount menambah fitur overdraftLimit.
 
 Kode Output:
-
+```
 A001 balance: 1050.0
-
 B002 balance: 1500.0
-
 C003 balance: 2060.0
-
+```
 
 Penjelasan:
 
@@ -87,15 +83,12 @@ Rectangle, Triangle, dan Circle meng-override method area().
 Total area dihitung dari seluruh elemen dalam array Shape[].
 
 Kode Output:
-
+```
 Area of Rectangle = 12.0
-
 Area of Triangle = 6.0
-
 Area of Circle = 30.566370614359172
-
 Total area = 48.56637061435917
-
+```
 
 **Penjelasan:**
 
